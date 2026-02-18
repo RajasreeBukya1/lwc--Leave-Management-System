@@ -27,6 +27,9 @@ The application uses a Tabset Layout with two primary modules:
 
 A radio/button group provides three main actions:
 
+<img width="3698" height="796" alt="image" src="https://github.com/user-attachments/assets/99afe8ab-81f3-4f22-8a53-86108c83419e" />
+
+
 * Apply 
 
     - Opens a Lightning Record Edit Form in a modal popup.
