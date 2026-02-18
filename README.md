@@ -37,7 +37,8 @@ A radio/button group provides three main actions:
 
     - On successful save, the onsuccess event is triggered and a Toast Notification is displayed.
  
-    - <img width="3789" height="2052" alt="image" src="https://github.com/user-attachments/assets/30607ddd-5ebe-446d-a96c-0bb0cbb493bc" />
+<img width="3789" height="2052" alt="Screenshot 2026-02-17 161551" src="https://github.com/user-attachments/assets/9384d59b-b54c-4ffe-ae17-1f912f40d86b" />
+
 
 * Pending 
 
@@ -47,7 +48,8 @@ A radio/button group provides three main actions:
 
     - Clicking Edit opens the record in a record edit form modal.
  
-    - <img width="3797" height="1358" alt="image" src="https://github.com/user-attachments/assets/24399c3a-2c10-4487-a4d6-a8a2165e8241" />
+  <img width="3797" height="1358" alt="Screenshot 2026-02-17 161844" src="https://github.com/user-attachments/assets/eefafb9e-f968-452c-9332-3a8952d20da6" />
+
 
 * History 
 
@@ -57,7 +59,7 @@ A radio/button group provides three main actions:
 
     - Edit button is disabled for Approved and Rejected records.
  
-    - <img width="3776" height="2165" alt="image" src="https://github.com/user-attachments/assets/fbec4870-119e-4c2c-8064-d16ee4fec5cb" />
+   <img width="3776" height="2165" alt="Screenshot 2026-02-17 161954" src="https://github.com/user-attachments/assets/a801b97c-1a3b-46a9-80e9-ba8e92ce1a03" />
 
 **3. UI Enhancements**
 
@@ -74,7 +76,7 @@ A radio/button group provides three main actions:
 
 - Ensures role-based data visibility and access control.
 
-  <img width="2274" height="768" alt="image" src="https://github.com/user-attachments/assets/bea6ec34-4e4c-4a8f-a736-1ad87259fbd1" />
+  <img width="2274" height="768" alt="Screenshot 2026-02-17 164359" src="https://github.com/user-attachments/assets/c2fd34b2-493f-4840-96d8-26ea2bf3ae2e" />
 
  ----------------------------------
 
